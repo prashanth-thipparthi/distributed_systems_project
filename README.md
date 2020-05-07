@@ -5,7 +5,7 @@ Abstract—The goal of the project is to address two of the major problems in th
 
 Detailed project report [link](https://github.com/prashanth-thipparthi/distributed_systems_project/blob/master/Final%20Project%20Report.pdf "Title").
 
-Video presentation [link](https://github.com/prashanth-thipparthi/distributed_systems_assignment1/blob/master/ProgrammingAssignment1.pdf "Title").
+Video presentation YouTube [link](https://www.youtube.com/watch?v=ebAh6fyyNvU "Title").
 
 Detailed presentation [link](https://github.com/prashanth-thipparthi/distributed_systems_project/blob/master/Bounty%20Based%20Federated%20Learning%20of%20Neural%20Networks.pptx "Title").
 
